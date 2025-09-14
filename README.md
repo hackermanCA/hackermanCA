@@ -2,7 +2,7 @@
  👋 Salut, je suis Sacré (aka Hackermanca)
 
 💻 Développeur web passionné  
-🌱 J’apprends actuellement **HTML, CSS, JavaScript**  
+🌱 J’apprends actuellement **HTML, CSS, JavaScript,PHP,SQL,JAVA,C,PYTHON**  
 🚀 Objectif : devenir expert en développement fullstack
 
 ---
@@ -13,6 +13,12 @@
 ![JS](https://img.shields.io/badge/Script-JavaScript-yellow?logo=javascript)
 ![Git](https://img.shields.io/badge/Control-Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/Hosting-GitHub-black?logo=github)
+![C](https://img.shields.io/badge/Code-C-blue?logo=c)
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?logo=postgresql)
+![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk)
+![PHP](https://img.shields.io/badge/Code-PHP-purple?logo=php)
+
 
 ---
 
