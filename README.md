@@ -53,7 +53,7 @@
 
 <p align="center">
   🔗 <a href="https://hackermanca.github.io/mon_projets3/">Mon site web</a> <br>
-  📧 <i>sacremavuidi@hotmail.com</i>
+  📧 <i>@sacremavuidi@hotmail.com</i>
 </p>
 
 ---
