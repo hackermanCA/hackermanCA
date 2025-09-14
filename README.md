@@ -1,59 +1,62 @@
 ## Hi there 👋
- 👋 Salut, je suis Sacré (aka Hackermanca)
+ 👋
+<!-- Profil GitHub Hackermanca -->
 
-💻 Développeur web passionné  
-🌱 J’apprends actuellement **HTML, CSS, JavaScript,PHP,SQL,JAVA,C,PYTHON**  
-🚀 Objectif : devenir expert en développement fullstack
+<h1 align="center">👋 Salut, je suis Sacré (aka Hackermanca)</h1>
+
+<p align="center">
+💻 Développeur web & futur fullstack developer <br>
+🌱 J’apprends et j’expérimente en permanence <br>
+🚀 Objectif : Devenir expert en développement moderne
+</p>
 
 ---
 
 🔧 Compétences
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
-![JS](https://img.shields.io/badge/Script-JavaScript-yellow?logo=javascript)
-![Git](https://img.shields.io/badge/Control-Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/Hosting-GitHub-black?logo=github)
-![C](https://img.shields.io/badge/Code-C-blue?logo=c)
-![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?logo=postgresql)
-![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk)
-![PHP](https://img.shields.io/badge/Code-PHP-purple?logo=php)
 
+<p align="center">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/Style-CSS-blue?logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/Script-JavaScript-yellow?logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Control-Git-red?logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/Hosting-GitHub-black?logo=github" alt="GitHub" />
+  <br>
+  <!-- Langages backend -->
+  <img src="https://img.shields.io/badge/Code-C-blue?logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Database-SQL-lightgrey?logo=postgresql" alt="SQL" />
+  <img src="https://img.shields.io/badge/Code-Java-red?logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Code-PHP-purple?logo=php" alt="PHP" />
+</p>
 
 ---
 
 📂 Projets phares
+
 - 🌐 [Mon site web](https://hackermanca.github.io/mon_projets3/)  
-- 💡 Projets en HTML/CSS/JS en cours d’apprentissage  
-- 📱 Futur projets sur le **développement web dynamique**  
+- 🖥️ Projets d’apprentissage en HTML / CSS / JS  
+- ⚡ Bientôt : projets backend (PHP, Python, Java, SQL)  
 
 ---
 
  📊 Stats GitHub
-![Sacré's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackermanca&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermanca&layout=compact&theme=dracula)
-
----
-
-🌍 Me retrouver
-- 🔗 [Mon site web](https://hackermanca.github.io/mon_projets3/)  
-- 📧 Email : sacremavuidi@hotmail.com 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackermanca&show_icons=true&theme=radical" alt="Stats GitHub Hackermanca" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermanca&layout=compact&theme=dracula" alt="Langages les plus utilisés" height="180em" />
+</p>
 
 ---
 
-✨ Merci de visiter mon profil ! N’hésite pas à explorer mes projets et à laisser une ⭐ sur ce que tu apprécies.
-<!--
-**hackermanCA/hackermanCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌍 Me retrouver
 
-Here are some ideas to get you started:
+<p align="center">
+  🔗 <a href="https://hackermanca.github.io/mon_projets3/">Mon site web</a> <br>
+  📧 <i>sacremavuidi@hotmail.com</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">✨ Merci de visiter mon profil ✨</h3>
+<p align="center">N’hésite pas à explorer mes projets et à laisser une ⭐ si tu apprécies !</p>
